@@ -1,0 +1,22 @@
+*{
+    background-color: blanchedalmond;
+}
+
+h1{
+    background-color: rgb(10, 10, 66);
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Bebas Neue', cursiva;
+}
+
+.titulos-listas{
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Xanh Mono', monoespaciado;
+}
+
+table {
+    
+}
